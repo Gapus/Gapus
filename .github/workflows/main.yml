@@ -24,6 +24,6 @@ jobs:
         run: |
           git add .
           git config --local user.email "tjdwnd751@naver.com"
-          git config --local user.name "gapus"
+          git config --local user.name "Gapus"
           git commit -m "Update README.md"
           git push
