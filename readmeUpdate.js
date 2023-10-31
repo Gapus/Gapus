@@ -1,7 +1,7 @@
 import { writeFileSync } from "node:fs";
 import Parser from "rss-parser";
 
-let text = `##원하는 제목
+let text = `##최근 작성 블로그
 `;
 // rss-parser 생성
 const parser = new Parser({
