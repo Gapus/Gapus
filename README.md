@@ -1,2 +1,2 @@
 ##최근 작성 블로그<br/><br/>
-<a href=https://gapus.tistory.com/21>[주4][면접질문] 자바스크립트의 리터럴</a></br><a href=https://gapus.tistory.com/20>[주3][면접질문] 자바스크립트의 AJAX</a></br><a href=https://gapus.tistory.com/19>[주3][면접질문] 자바스크립트의 SSR</a></br><a href=https://gapus.tistory.com/18>[주3][면접질문] 자바스크립트의 CSR</a></br><a href=https://gapus.tistory.com/17>[주3][면접질문] 비동기 처리(콜백, 프로미스 , anync/await)</a></br>
+<a href=https://gapus.tistory.com/22>[자바스크립트] ES6 이후 생긴 주요 기능</a></br><a href=https://gapus.tistory.com/21>[자바스크립트] 리터럴</a></br><a href=https://gapus.tistory.com/20>[자바스크립트] AJAX</a></br><a href=https://gapus.tistory.com/19>[자바스크립트] SSR</a></br><a href=https://gapus.tistory.com/18>[자바스크립트] CSR</a></br>
