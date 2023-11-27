@@ -1,2 +1,2 @@
 ##최근 작성 블로그<br/><br/>
-<a href=https://gapus.tistory.com/34>[React] 가상 DOM의 개념과 DOM 과의 차이에 대해</a></br><a href=https://gapus.tistory.com/33>[React] 리액트(React)에 대해</a></br><a href=https://gapus.tistory.com/32>[CS] 이벤트 캡처링과 이벤트 버블링에 대해</a></br><a href=https://gapus.tistory.com/31>[CS] 이벤트에 대해</a></br><a href=https://gapus.tistory.com/30>[자바스크립트] 함수에 대해</a></br>
+<a href=https://gapus.tistory.com/35>[React] 리액트의 생명 주기(Life Cycle)</a></br><a href=https://gapus.tistory.com/34>[React] 가상 DOM의 개념과 DOM 과의 차이에 대해</a></br><a href=https://gapus.tistory.com/33>[React] 리액트(React)에 대해</a></br><a href=https://gapus.tistory.com/32>[CS] 이벤트 캡처링과 이벤트 버블링에 대해</a></br><a href=https://gapus.tistory.com/31>[CS] 이벤트에 대해</a></br>
