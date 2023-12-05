@@ -1,2 +1,2 @@
 ##최근 작성 블로그<br/><br/>
-<a href=https://gapus.tistory.com/42>[자바스크립트] require와 import의 개념과 차이점</a></br><a href=https://gapus.tistory.com/39>[CS] npm에 대해</a></br><a href=https://gapus.tistory.com/38>[React] 훅(Hook)에 대해</a></br><a href=https://gapus.tistory.com/37>[React] 컴포넌트에 대해</a></br><a href=https://gapus.tistory.com/36>[React] props와 state에 대해</a></br>
+<a href=https://gapus.tistory.com/43>[CS] SPA와 MPA에 대해</a></br><a href=https://gapus.tistory.com/42>[자바스크립트] require와 import의 개념과 차이점</a></br><a href=https://gapus.tistory.com/39>[CS] npm에 대해</a></br><a href=https://gapus.tistory.com/38>[React] 훅(Hook)에 대해</a></br><a href=https://gapus.tistory.com/37>[React] 컴포넌트에 대해</a></br>
